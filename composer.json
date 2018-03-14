@@ -1,0 +1,19 @@
+{
+    "name": "web0376/tencentyun-img",
+    "description": "腾讯云 万象优图（Cloud Image） SDK for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liu haha",
+            "email": "web0376@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "QcloudImage\\": "src/"
+        }
+    }
+	
+}
