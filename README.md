@@ -1,6 +1,10 @@
 # tencentyun-img
 ##腾讯云-万象优图人脸识别检测
 
+### 安装 
+
+composer require web0376/tencentyun-img dev-master
+
 
 ### 1. 在腾讯云申请业务的授权
 授权包括：
