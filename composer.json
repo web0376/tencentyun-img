@@ -1,6 +1,6 @@
 {
     "name": "web0376/tencentyun-img",
-    "description": "腾讯云 万象优图（Cloud Image） SDK for PHP",
+    "description": "腾讯云 人脸识别  SDK for PHP",
     "license": "MIT",
     "authors": [
         {
