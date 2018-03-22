@@ -1,6 +1,10 @@
 # tencentyun-img
 ##腾讯云-万象优图人脸识别检测
 
+```php
+2018年3月22日 11:48:44  经测试腾讯云的人脸识别不支持旋转或翻转后的照片，建议使用百度云人脸识别
+```
+
 ### 安装 
 
 composer require web0376/tencentyun-img dev-master
