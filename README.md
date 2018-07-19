@@ -7,7 +7,7 @@
 
 ### 安装 
 
-composer require web0376/tencentyun-img dev-master
+> composer require web0376/tencentyun-img dev-master
 
 
 ### 1. 在腾讯云申请业务的授权
